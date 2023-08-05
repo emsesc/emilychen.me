@@ -2,7 +2,7 @@ const photosData = [
   {
     title: 'Storytellers',
     imgSrc:
-      'https://github.com/bitprj/art-heist/assets/69332964/e14a9091-9fb8-4932-b66a-97fc5031a6b4',
+      'https://github.com/bitprj/art-heist/assets/69332964/b3593058-362c-4440-bf37-5937d86ca85f',
     slug: 'storytellers',
   },
   {
