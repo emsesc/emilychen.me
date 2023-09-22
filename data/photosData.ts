@@ -18,7 +18,7 @@ const photosData = [
     slug: 'perceiving-ms',
   },
   {
-    title: 'A Delta Summer',
+    title: 'A Southern Summer',
     imgSrc:
       'https://github.com/bitprj/art-heist/assets/69332964/674e1300-bb48-484e-8c32-28e064c7c8b3',
     slug: 'ms-summer',
